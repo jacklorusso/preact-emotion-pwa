@@ -1,0 +1,34 @@
+.styled-NavBar-k6f67j {
+    position: fixed;
+    left: 0;
+    top: 0;
+    display: -webkit-box; display: -ms-flexbox; display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 100%;
+    height: 56px;
+    background: #fff
+}
+.styled-NavBar-k6f67j h1 {
+    float: left;
+    padding-left: 18px;
+    font-size: 18px;
+    font-weight: 600
+}
+.css-links-47cxmo {
+    display: inline-block;
+    float: right;
+    font-size: 18px
+}
+.css-links-47cxmo a {
+    color: inherit;
+    text-decoration: none;
+    padding-right: 18px
+}
+.css-links-47cxmo a:hover {
+    color: #00cc76
+}
